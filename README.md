@@ -1,4 +1,4 @@
-# Advanched Deep Learning Final Project
+# Advanced Deep Learning Final Project
 
 ## Task
 
